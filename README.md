@@ -61,16 +61,16 @@ sensor:
     unit_of_measurement: 'pulse'
     name: 'water_pulse_meter'
     icon: 'mdi:water'
-    internal_filter: 100ms # switch off in case of a problem and follow the log
+    internal_filter: 100ms # shut down and monitor the log if there are problems
     filters:
-      - multiply: 0.5 # switch off in case of a problem and follow the log
+      - multiply: 0.5 # shut down and monitor the log if there are problems
     total:
       name: 'water_pulse_meter_total'
       icon: 'mdi:water'
       unit_of_measurement: 'l'
       id: total
       filters:
-      - multiply: 0.5 switch off in case of a problem and follow the log
+      - multiply: 0.5 # shut down and monitor the log if there are problems
 
   - platform: total_daily_energy
     name: "water_pulse_meter_daily"
