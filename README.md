@@ -1,7 +1,8 @@
 # ESPHome water pulse meter
 
 ## Description:
-MCU: ESP8266_AC or WemosD1_mini
+
+Tutorial for reading water meter pulses with cable reed contact using ESP8266 and ESPHome.
 
 ## Links:
 
@@ -41,12 +42,6 @@ wifi:
   networks:
   - ssid: !secret wifi_ssid
     password: !secret wifi_password
-  manual_ip:
-    static_ip: 192.168.1.232
-    gateway: 192.168.1.1
-    subnet: 255.255.255.0  
-    dns1: 192.168.1.1
-    dns2: 1.1.1.1
 
 time:
   - platform: sntp
@@ -60,16 +55,16 @@ sensor:
     unit_of_measurement: 'pulse'
     name: 'water_pulse_meter'
     icon: 'mdi:water'
-    internal_filter: 100ms
+    internal_filter: 100ms # switch off in case of a problem and follow the log
     filters:
-      - multiply: 0.5
+      - multiply: 0.5 # switch off in case of a problem and follow the log
     total:
       name: 'water_pulse_meter_total'
       icon: 'mdi:water'
       unit_of_measurement: 'l'
       id: total
       filters:
-      - multiply: 0.5
+      - multiply: 0.5 switch off in case of a problem and follow the log
 
   - platform: total_daily_energy
     name: "water_pulse_meter_daily"
@@ -79,3 +74,5 @@ sensor:
 
 
 ## Tips:
+
+In case of a problem with reading data from the sensor, disable filters/multiply and internal_filter in the program.
