@@ -4,6 +4,10 @@
 
 Tutorial for reading water meter pulses with cable reed contact using ESP8266 and ESPHome.
 
+## Tutorial:
+
+ESPHome: [YTB](https://www.youtube.com/watch?v=mj-24SZLQKk) 
+
 ## Links:
 
 Water meter: ENBRA DE-13-MI001-PTB002 with reed sensor. ( 1l = 1 pulse )
@@ -19,6 +23,8 @@ or
 WemosD1 mini: [Ali](https://www.aliexpress.com/item/1005003430551175.html?spm=a2g0o.productlist.0.0.2b6649f2d9lNvP&algo_pvid=999515b6-0dda-4fce-94ff-490172a0ba2c&aem_p4p_detail=2022022216235813155484689130080004686856&algo_exp_id=)
 
 AC/DC Power supply: [Ali](https://www.aliexpress.com/item/1005001432291885.html?dp=61e453ee0fa2025c4ba43400&cn=ah&aff_fcid=e91f783db22b487fac9475b898675279-1645575787579-00803-_d6jWDbY&aff_fsk=_d6jWDbY&aff_platform=link-c-)
+
+
 
 ## Schema - Wemos D1 mini:
 
