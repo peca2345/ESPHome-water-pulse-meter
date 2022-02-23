@@ -12,7 +12,7 @@ ESPHome:        [YTB](https://www.youtube.com/watch?v=mj-24SZLQKk)
 
 Soldering:      [YTB](https://www.youtube.com/watch?v=6rmErwU5E-k) 
 
-## Links:
+## Components:
 
 Water meter: ENBRA DE-13-MI001-PTB002 with 2-wired reed sensor. ( 1l = 1 pulse )
 
