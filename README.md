@@ -10,7 +10,7 @@ ESPHome: [YTB](https://www.youtube.com/watch?v=mj-24SZLQKk)
 
 ## Links:
 
-Water meter: ENBRA DE-13-MI001-PTB002 with reed sensor. ( 1l = 1 pulse )
+Water meter: ENBRA DE-13-MI001-PTB002 with 2-wired reed sensor. ( 1l = 1 pulse )
 
 and
 
