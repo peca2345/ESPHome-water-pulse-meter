@@ -26,7 +26,8 @@ AC/DC Power supply: [BUY](https://www.aliexpress.com/item/1005001432291885.html?
 
 ## ESPHome code:
 
-`esphome:
+```
+esphome:
   name: home-evodnik # u bojelru pod schody
   
 esp8266:
@@ -82,7 +83,8 @@ sensor:
   - platform: total_daily_energy
     name: "eVodnik_total_daily"
     power_id: total  
-    unit_of_measurement: l`
+    unit_of_measurement: l
+```
 
 
 ## Tips:
