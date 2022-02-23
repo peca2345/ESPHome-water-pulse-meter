@@ -4,7 +4,7 @@
 
 Tutorial for reading water meter pulses with cable reed contact using ESP8266 and ESPHome.
 
-# Required knowledge:
+## Required knowledge:
 
 Home Assistant: [YTB](https://www.youtube.com/watch?v=u_aKcf_F1MM) 
 
