@@ -6,6 +6,8 @@ Tutorial for reading water meter pulses with cable reed contact using ESP8266 an
 
 ## Links:
 
+Water meter: ENBRA DE-13-MI001-PTB002 with reed sensor. ( 1l = 1 pulse )
+
 ESP8266 AC 1ch relay [Ali](https://www.aliexpress.com/item/1005001631140958.html?dp=61e453ee0fa2025c4ba43400&cn=ah&aff_fcid=bc98419ec5b0425abf957a328f7c1556-1645572122033-04627-_AnTGXs&tt=CPS_NORMAL&aff_fsk=_AnTGXs&aff_platform=portals-)
 
 USB/TTL programmer (set) [Ali](https://www.aliexpress.com/item/4000120687489.html?spm=a2g0o.productlist.0.0.1c584f39Jcl6io&algo_pvid=9b1a0e4e-551b-4ba6-af72-74ef9ac96b87&aem_p4p_detail=2022022216244713238668511815050004685000&algo_exp_id=9b1a0e4e-551b-4ba6-)
