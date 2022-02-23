@@ -12,7 +12,7 @@ and
 
 ESP8266 AC 1ch relay: [Ali](https://www.aliexpress.com/item/1005001631140958.html?dp=61e453ee0fa2025c4ba43400&cn=ah&aff_fcid=bc98419ec5b0425abf957a328f7c1556-1645572122033-04627-_AnTGXs&tt=CPS_NORMAL&aff_fsk=_AnTGXs&aff_platform=portals-)
 
-USB/TTL programmer: (set) [Ali](https://www.aliexpress.com/item/4000120687489.html?spm=a2g0o.productlist.0.0.1c584f39Jcl6io&algo_pvid=9b1a0e4e-551b-4ba6-af72-74ef9ac96b87&aem_p4p_detail=2022022216244713238668511815050004685000&algo_exp_id=9b1a0e4e-551b-4ba6-)
+USB/TTL programmer (set): [Ali](https://www.aliexpress.com/item/4000120687489.html?spm=a2g0o.productlist.0.0.1c584f39Jcl6io&algo_pvid=9b1a0e4e-551b-4ba6-af72-74ef9ac96b87&aem_p4p_detail=2022022216244713238668511815050004685000&algo_exp_id=9b1a0e4e-551b-4ba6-)
 
 or 
 
@@ -20,11 +20,11 @@ WemosD1 mini: [Ali](https://www.aliexpress.com/item/1005003430551175.html?spm=a2
 
 AC/DC Power supply: [Ali](https://www.aliexpress.com/item/1005001432291885.html?dp=61e453ee0fa2025c4ba43400&cn=ah&aff_fcid=e91f783db22b487fac9475b898675279-1645575787579-00803-_d6jWDbY&aff_fsk=_d6jWDbY&aff_platform=link-c-)
 
-## Schema Wemos D1 mini:
+## Schema - Wemos D1 mini:
 
 ![Wemos D1 mini](https://github.com/peca2345/ESPHome-water-pulse-meter/blob/main/WemosD1mini_schema.png)
 
-## Schema ESP8266_AC:
+## Schema - ESP8266 AC:
 ![ESP8266 AC](https://github.com/peca2345/ESPHome-water-pulse-meter/blob/main/ESP8266_AC_schema.png)
 
 
