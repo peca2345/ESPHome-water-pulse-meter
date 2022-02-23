@@ -1,4 +1,4 @@
-# ESPHome water pulse meter
+# ESPHome - water pulse meter
 
 ## Description:
 
