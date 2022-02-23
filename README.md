@@ -14,17 +14,18 @@ AC/DC Power supply:
 
 
 
-## Schema:
+## Schema Wemos D1 mini:
 
 ![Wemos D1 mini](https://github.com/peca2345/ESPHome-water-pulse-meter/blob/main/WemosD1mini_schema.png)
 
+## Schema ESP8266_AC:
 ![ESP8266 AC](https://github.com/peca2345/ESPHome-water-pulse-meter/blob/main/ESP8266_AC_schema.png)
 
 
 ## ESPHome code:
 
 esphome:
-  name: home-evodnik # u bojelru pod schody
+  name: home-water-pulse-meter
   
 esp8266:
   board: esp01_1m
