@@ -26,7 +26,7 @@ AC/DC Power supply: [BUY](https://www.aliexpress.com/item/1005001432291885.html?
 
 ## ESPHome code:
 
-esphome:
+`esphome:
   name: home-water-pulse-meter
   
 esp8266:
@@ -77,7 +77,7 @@ sensor:
   - platform: total_daily_energy
     name: "water_pulse_meter_daily"
     power_id: total  
-    unit_of_measurement: l 
+    unit_of_measurement: l `
 
 
 ## Tips:
