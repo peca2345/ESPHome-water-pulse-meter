@@ -87,4 +87,4 @@ sensor:
 
 ## Tips:
 
-In case of a problem with reading data from the sensor, disable filters/multiply and internal_filter in the program.
+In case of a problem with reading data from the sensor, disable filters/multiply and internal_filter in the program and check the log.
