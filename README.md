@@ -6,15 +6,19 @@ MCU: ESP8266_AC or WemosD1_mini
 ## Links:
 
 ESP8266_AC: 
+
+or 
+
 WemosD1 mini:
+AC/DC Power supply:
 
 
 
 ## Schema:
 
-![Schematic](https://github.com/peca2345/ESPHome-car-battery-voltage-meter/raw/main/WemosD1mini_schema.png)
+![Wemos D1 mini](https://github.com/peca2345/ESPHome-water-pulse-meter/blob/main/WemosD1mini_schema.png)
 
-![Schematic](https://github.com/peca2345/ESPHome-car-battery-voltage-meter/raw/main/ESP8266_AC_schema.png)
+![ESP8266 AC](https://github.com/peca2345/ESPHome-water-pulse-meter/blob/main/ESP8266_AC_schema.png)
 
 
 ## ESPHome code:
